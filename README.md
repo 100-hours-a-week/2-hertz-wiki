@@ -1,4 +1,4 @@
-# 📡 TUNING
+# <img src="https://github.com/user-attachments/assets/4ce674e9-aab7-476a-b6a0-92098bed689d" width="30" /> TUNING
 
 TUNING은 조직 내부 사용자 간의 자연스럽고 부담 없는 소통을 돕는 소셜 매칭 서비스입니다.
 사용자는 복잡한 설정 없이 관심사 기반의 감정 신호를 통해 자신과 유사한 주파수를 가진 사람들과 연결됩니다.
