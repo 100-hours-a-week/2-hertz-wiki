@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/b0b02de2-57a7-4d65-a993-897680a1561b" width="40" /> TUNING
+# <img src="https://github.com/user-attachments/assets/b0b02de2-57a7-4d65-a993-897680a1561b" width="40" /> <img src="https://github.com/user-attachments/assets/9d59b00a-9001-4750-ba9d-2033a9667841" width="140"/>
 
 
 TUNING은 조직 내부 사용자 간의 자연스럽고 부담 없는 소통을 돕는 소셜 매칭 서비스입니다.
