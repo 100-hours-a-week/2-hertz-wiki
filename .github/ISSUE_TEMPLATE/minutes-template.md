@@ -2,7 +2,7 @@
 name: Minutes-Template
 about: 회의록 템플릿
 title: ''
-labels: 회의록
+labels: ''
 assignees: ''
 
 ---

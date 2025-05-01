@@ -2,7 +2,7 @@
 name: Weekly-Meeting-Template
 about: 주간 미팅 템플릿
 title: ''
-labels: 주간발표
+labels: ''
 assignees: ''
 
 ---
