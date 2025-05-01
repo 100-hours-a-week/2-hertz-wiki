@@ -1,8 +1,8 @@
 ---
 name: Minutes-Template
 about: 회의록 템플릿
-title: ''
-labels: ''
+title: MM/DD 회의록
+labels: Minutes
 assignees: ''
 
 ---

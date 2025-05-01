@@ -1,9 +1,9 @@
 ---
 name: Daily-Scrum-Template
 about: 데일리 스크럼 템플릿
-title: ''
-labels: ''
-assignees: ''
+title: MM/DD 데일리 스크럼
+labels: Daily-Scrum
+assignees: dani1552, DDongu, jinkyeongk, kanado5385-k, stupidyoh, younghak9905, zzeon9
 
 ---
 

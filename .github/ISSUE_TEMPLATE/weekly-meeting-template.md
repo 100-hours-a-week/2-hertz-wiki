@@ -1,8 +1,8 @@
 ---
 name: Weekly-Meeting-Template
 about: 주간 미팅 템플릿
-title: ''
-labels: ''
+title: "[주간 발표] Sprint #N, MM/DD"
+labels: Weekly-Record
 assignees: ''
 
 ---
