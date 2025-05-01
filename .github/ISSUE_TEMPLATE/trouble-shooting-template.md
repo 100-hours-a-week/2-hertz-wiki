@@ -1,8 +1,8 @@
 ---
 name: Trouble-Shooting-Template
 about: 트러블 슈팅 템플릿
-title: ''
-labels: ''
+title: "[TroubleShooting - 과정] - 제목"
+labels: Troubleshooting
 assignees: ''
 
 ---
