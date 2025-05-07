@@ -2,7 +2,7 @@
 name: Daily-Scrum-Template
 about: 데일리 스크럼 템플릿
 title: MM/DD 데일리 스크럼
-labels: Daily-Scrum
+labels: Daily-Scrum, Weekly-Record
 assignees: dani1552, DDongu, jinkyeongk, kanado5385-k, stupidyoh, younghak9905, zzeon9
 
 ---
