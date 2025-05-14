@@ -1,7 +1,7 @@
 ---
 name: Sprint-Backlog-Template
 about: 스프린트 백로그 템플릿
-title: "[Sprint #N - 과정 ] - 제목"
+title: "[Sprint #N - 과정] - 제목"
 labels: Sprint-Backlog
 assignees: ''
 
